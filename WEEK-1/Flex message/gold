@@ -1,0 +1,201 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "horizontal",
+        "backgroundColor": "#fbc02d",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://rakatong.com/wp-content/uploads/2021/09/gold-traders-as-logo.png",
+            "aspectRatio": "70:60",
+            "size": "md",
+            "align": "start"
+          },
+          {
+            "type": "text",
+            "text": "ราคาทองวันนี้",
+            "weight": "bold",
+            "size": "md",
+            "gravity": "center",
+            "align": "center",
+            "color": "#FFFFFF"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "margin": "md",
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ชนิดความบริสุทธิ์ของทอง",
+                "size": "sm",
+                "color": "#111111",
+                "weight": "bold",
+                "align": "end",
+                "decoration": "none"
+              },
+              {
+                "type": "text",
+                "text": "ขายออก",
+                "color": "#111111",
+                "weight": "bold",
+                "size": "sm",
+                "align": "end"
+              },
+              {
+                "type": "text",
+                "text": "รับซื้อ",
+                "color": "#111111",
+                "weight": "bold",
+                "size": "sm",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#cccccc",
+            "margin": "md"
+          },
+          {
+            "margin": "md",
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ทองคำแท่ง 96.5%",
+                "color": "#111111",
+                "weight": "bold",
+                "size": "sm",
+                "align": "end",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "33,350.00",
+                "color": "#111111",
+                "weight": "bold",
+                "size": "sm",
+                "align": "end",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "33,250.00",
+                "color": "#111111",
+                "weight": "bold",
+                "size": "sm",
+                "align": "end",
+                "gravity": "center"
+              }
+            ],
+            "backgroundColor": "#fff59d"
+          },
+          {
+            "margin": "md",
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ทองรูปพรรณ 96.5%",
+                "color": "#111111",
+                "weight": "bold",
+                "size": "sm",
+                "align": "end",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "33,850.00",
+                "color": "#111111",
+                "weight": "bold",
+                "size": "sm",
+                "align": "end",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "32,654.64",
+                "color": "#111111",
+                "weight": "bold",
+                "size": "sm",
+                "align": "end",
+                "gravity": "center"
+              }
+            ],
+            "backgroundColor": "#fff59d"
+          },
+          {
+            "margin": "md",
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "06 พฤศจิกายน 2566\tเวลา 11:04 น.\t(ครั้งที่ 4)",
+                "weight": "bold",
+                "color": "#999999",
+                "size": "xs",
+                "flex": 1,
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "ที่มา : https://www.goldtraders.or.th/",
+                  "text": "hello"
+                },
+                "flex": 1,
+                "style": "link",
+                "margin": "none",
+                "height": "sm",
+                "offsetEnd": "none",
+                "offsetStart": "50px",
+                "offsetBottom": "none",
+                "offsetTop": "none"
+              }
+            ],
+            "margin": "xs"
+          }
+        ]
+      },
+      "size": "giga",
+      "styles": {
+        "header": {
+          "backgroundColor": "#f57c00"
+        },
+        "body": {
+          "backgroundColor": "#FEFEFE"
+        },
+        "footer": {
+          "separator": true
+        }
+      }
+    }
+  ]
+}
