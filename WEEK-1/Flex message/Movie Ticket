@@ -1,0 +1,225 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://www.majorcineplex.com/public/assets/front/images/brand-black/major-cinema.png",
+        "flex": 0,
+        "size": "md"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Movie Ticket",
+                "size": "xxl",
+                "color": "#FFFFFF",
+                "weight": "bold",
+                "flex": 0
+              }
+            ],
+            "spacing": "sm"
+          },
+          {
+            "type": "text",
+            "text": "Major cinema",
+            "color": "#FFFFFF",
+            "size": "xl"
+          }
+        ]
+      }
+    ],
+    "spacing": "lg"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://qrcode.in.th/wp-content/themes/QR-THEME/page-templates/assets/img/qr-code.svg",
+            "size": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Branch",
+                "color": "#e64a19"
+              },
+              {
+                "type": "text",
+                "text": "Songkhla",
+                "size": "xl",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Theatre",
+                "color": "#e64a19"
+              },
+              {
+                "type": "text",
+                "text": "2",
+                "size": "xl",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Seat No.",
+                "color": "#e64a19"
+              },
+              {
+                "type": "text",
+                "text": "D15",
+                "size": "xl",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Movie Title",
+                "color": "#e64a19"
+              },
+              {
+                "type": "text",
+                "text": "ManSuang",
+                "size": "xl",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Date",
+                "color": "#e64a19"
+              },
+              {
+                "type": "text",
+                "text": "24/08/2023",
+                "size": "xl",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Showtime",
+                "color": "#e64a19"
+              },
+              {
+                "type": "text",
+                "text": "13:00",
+                "size": "xl",
+                "weight": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Akkarapon Tongmanee"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "9517910002223371"
+                  },
+                  {
+                    "type": "text",
+                    "text": "POS ID : E12900000200513"
+                  },
+                  {
+                    "type": "text",
+                    "text": "TaxID 0107545000225"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "PRICE  Vat Incl.  GV. -"
+                  },
+                  {
+                    "type": "text",
+                    "text": "C3014C202     -32703"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Taxinv(ABB)00000025"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "spacing": "md"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "การุณายื่นตั๋วให้พนักงานตรวจสอบทุกครั้ง",
+        "size": "lg",
+        "wrap": true,
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFFFFF"
+      }
+    ],
+    "backgroundColor": "#f74d63"
+  },
+  "styles": {
+    "header": {
+      "backgroundColor": "#000000"
+    }
+  }
+}
