@@ -1,0 +1,216 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "BOTNOI CAFE RECEIPT",
+        "weight": "bold",
+        "color": "#03a9f4",
+        "size": "xl",
+        "align": "center",
+        "margin": "xl"
+      },
+      {
+        "type": "image",
+        "url": "https://i.pinimg.com/originals/74/26/cf/7426cf05ffe331b889b1459cd0005054.png"
+      },
+      {
+        "type": "text",
+        "text": " สาขา ถนนอโศกมนตรี (ซอยสุขุมวิท 21) แขวงคลองเตยเหนือ เขตวัฒนา กทม. 10110",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "xxl",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ลาเต้เย็น",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "45 บาท",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "คาปูชิโน่เย็น",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "35 บาท",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "อเมริกาโน่(หวานน้อย)",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "45 บาท",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "margin": "xxl",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รายการ",
+                "size": "sm",
+                "color": "#555555"
+              },
+              {
+                "type": "text",
+                "text": "3",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รวม",
+                "size": "sm",
+                "color": "#555555"
+              },
+              {
+                "type": "text",
+                "text": "125 บาท",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เงิน",
+                "size": "sm",
+                "color": "#555555"
+              },
+              {
+                "type": "text",
+                "text": "150 บาท",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ทอน",
+                "size": "sm",
+                "color": "#555555"
+              },
+              {
+                "type": "text",
+                "text": "25 บาท",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "margin": "md",
+        "contents": [
+          {
+            "type": "text",
+            "text": "PAYMENT ID",
+            "size": "xs",
+            "color": "#aaaaaa",
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": "3765912457683",
+            "color": "#aaaaaa",
+            "size": "xs",
+            "align": "end"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "url": "https://img.blognone.com/logo/prod/118x118/logo/ibotnoi-company-limited.png"
+      }
+    ]
+  },
+  "styles": {
+    "footer": {
+      "separator": true
+    }
+  }
+}
