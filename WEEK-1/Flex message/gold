@@ -3,6 +3,7 @@
   "contents": [
     {
       "type": "bubble",
+      "size": "giga",
       "header": {
         "type": "box",
         "layout": "horizontal",
@@ -37,11 +38,11 @@
             "contents": [
               {
                 "type": "text",
-                "text": "ชนิดความบริสุทธิ์ของทอง",
+                "text": "ชนิดของทอง",
                 "size": "sm",
                 "color": "#111111",
                 "weight": "bold",
-                "align": "end",
+                "align": "center",
                 "decoration": "none"
               },
               {
@@ -74,11 +75,11 @@
             "contents": [
               {
                 "type": "text",
-                "text": "ทองคำแท่ง 96.5%",
+                "text": "ทองคำแท่ง",
                 "color": "#111111",
                 "weight": "bold",
                 "size": "sm",
-                "align": "end",
+                "align": "center",
                 "gravity": "center"
               },
               {
@@ -109,11 +110,11 @@
             "contents": [
               {
                 "type": "text",
-                "text": "ทองรูปพรรณ 96.5%",
+                "text": "ทองรูปพรรณ",
                 "color": "#111111",
                 "weight": "bold",
                 "size": "sm",
-                "align": "end",
+                "align": "center",
                 "gravity": "center"
               },
               {
@@ -184,7 +185,6 @@
           }
         ]
       },
-      "size": "giga",
       "styles": {
         "header": {
           "backgroundColor": "#f57c00"
