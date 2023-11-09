@@ -137,7 +137,8 @@
             ],
             "backgroundColor": "#3f51b5"
           }
-        ]
+        ],
+        "margin": "xl"
       },
       {
         "type": "box",
@@ -213,6 +214,12 @@
             "backgroundColor": "#3f51b5"
           }
         ]
+      },
+      {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Seal_of_the_Ministry_of_Public_Health_of_Thailand.svg/1200px-Seal_of_the_Ministry_of_Public_Health_of_Thailand.svg.png",
+        "align": "center",
+        "margin": "xl"
       }
     ]
   }
