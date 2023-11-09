@@ -1,0 +1,219 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://www.colorhexa.com/00323c.png",
+        "position": "absolute",
+        "size": "full",
+        "aspectRatio": "5:7",
+        "aspectMode": "cover",
+        "offsetTop": "0px",
+        "offsetStart": "0px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "สถานะการณ์ COVID 19 ",
+                "color": "#FFFFFF",
+                "size": "xxl"
+              },
+              {
+                "type": "text",
+                "text": "ในประเทศไทย (รายสัปดาห์)",
+                "color": "#FFFFFF",
+                "size": "xl"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ผู้ป่วยรักษาตัว",
+                "color": "#FFFFFF",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "ในโรงพยาบาล",
+                "color": "#FFFFFF",
+                "align": "center"
+              },
+              {
+                "type": "separator",
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "304",
+                "color": "#FFFFFF",
+                "size": "3xl",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              }
+            ],
+            "backgroundColor": "#e51c23"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ผู้เสียชีวิต",
+                "color": "#FFFFFF",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "ในโรงพยาบาล",
+                "color": "#9e9e9e",
+                "align": "center"
+              },
+              {
+                "type": "separator",
+                "margin": "sm"
+              },
+              {
+                "type": "text",
+                "text": "1",
+                "color": "#FFFFFF",
+                "size": "3xl",
+                "align": "center"
+              },
+              {
+                "type": "separator"
+              }
+            ],
+            "backgroundColor": "#9e9e9e"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "วันที่",
+                "color": "#FFFFFF",
+                "align": "center",
+                "size": "xl"
+              },
+              {
+                "type": "text",
+                "text": "29 ตค.",
+                "color": "#FFFFFF",
+                "align": "center",
+                "size": "xl"
+              }
+            ],
+            "backgroundColor": "#3f51b5"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เฉลี่ยรายวัน",
+                "color": "#FFFFFF",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "จำนวน 43 ราย/วัน",
+                "color": "#FFFFFF",
+                "align": "center",
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "ป่วยสะสม 34,511",
+                "color": "#FFFFFF",
+                "align": "center",
+                "size": "sm"
+              }
+            ],
+            "backgroundColor": "#e51c23"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เฉลี่ยรายวัน",
+                "color": "#FFFFFF",
+                "align": "center",
+                "size": "md"
+              },
+              {
+                "type": "text",
+                "text": "จำนวน 1 ราย/วัน",
+                "color": "#FFFFFF",
+                "align": "center",
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "เสียชีวิตสะสม 819",
+                "color": "#FFFFFF",
+                "align": "center",
+                "size": "sm"
+              }
+            ],
+            "backgroundColor": "#9e9e9e"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "- 4 พย.",
+                "color": "#FFFFFF",
+                "align": "center",
+                "size": "xl"
+              },
+              {
+                "type": "text",
+                "text": "2566",
+                "color": "#FFFFFF",
+                "align": "center",
+                "size": "xl"
+              }
+            ],
+            "backgroundColor": "#3f51b5"
+          }
+        ]
+      }
+    ]
+  }
+}
