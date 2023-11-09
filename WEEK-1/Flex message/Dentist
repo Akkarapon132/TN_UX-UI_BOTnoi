@@ -1,0 +1,215 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://bangmoddental.com/wp-content/uploads/2020/03/1.png",
+        "flex": 0
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "บัตรนัด",
+                "size": "xxl",
+                "color": "#e51c23",
+                "weight": "bold",
+                "flex": 0
+              }
+            ],
+            "spacing": "sm"
+          },
+          {
+            "type": "text",
+            "text": "คลีนิคทันตกรรม",
+            "size": "xxl",
+            "flex": 1,
+            "color": "#FFFFFF"
+          }
+        ]
+      }
+    ],
+    "spacing": "lg"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "วันนัด",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "11 พฤศจิกายน 2566",
+            "size": "md",
+            "weight": "bold"
+          }
+        ],
+        "spacing": "sm"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ชื่อ",
+                "size": "md"
+              },
+              {
+                "type": "text",
+                "text": "อัครภณ  ทองมณี",
+                "size": "md",
+                "weight": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เบอร์โทร"
+              },
+              {
+                "type": "text",
+                "text": "091-1111111",
+                "size": "md",
+                "weight": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "บริการ"
+              },
+              {
+                "type": "text",
+                "text": "ถอนฟัน",
+                "size": "md",
+                "weight": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "คิวที่"
+              },
+              {
+                "type": "text",
+                "text": "32",
+                "size": "xxl",
+                "weight": "bold",
+                "color": "#dd191d"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เวลา"
+              },
+              {
+                "type": "text",
+                "text": "11.30",
+                "size": "xxl",
+                "weight": "bold",
+                "color": "#dd191d"
+              }
+            ]
+          }
+        ],
+        "margin": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://qrcode.in.th/wp-content/themes/QR-THEME/page-templates/assets/img/qr-code.svg",
+            "aspectMode": "fit",
+            "aspectRatio": "3:1",
+            "size": "full"
+          }
+        ],
+        "paddingTop": "10px"
+      }
+    ],
+    "spacing": "md"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "การุณาโชว์บัตรทุกครั้งที่ทำการเข้าใช้บริการ",
+        "size": "lg",
+        "wrap": true,
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFFFFF"
+      }
+    ],
+    "backgroundColor": "#f74d63"
+  },
+  "styles": {
+    "header": {
+      "backgroundColor": "#29b6f6"
+    },
+    "body": {
+      "backgroundColor": "#F5EED8"
+    }
+  }
+}
