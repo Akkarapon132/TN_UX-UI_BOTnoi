@@ -1,0 +1,403 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "offsetTop": "0px",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "5:7",
+        "url": "https://www.bettylukens.com/cdn/shop/products/Large-Purple-Background_large.jpg?v=1571438714",
+        "position": "absolute"
+      },
+      {
+        "type": "image",
+        "url": "https://s3-eu-west-1.amazonaws.com/football-foundation-production/PL_Resized_0-optimised.png",
+        "size": "xxl",
+        "position": "relative",
+        "align": "center"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "weight": "bold",
+                "size": "md",
+                "align": "center",
+                "text": "การแข่งขันนัดที่ 11 จาก 38 นัด"
+              }
+            ],
+            "backgroundColor": "#F8D247",
+            "cornerRadius": "lg",
+            "width": "260px",
+            "paddingTop": "8px",
+            "paddingBottom": "8px",
+            "margin": "none"
+          }
+        ],
+        "cornerRadius": "lg",
+        "offsetTop": "10px",
+        "alignItems": "center",
+        "justifyContent": "center"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://football.kapook.com/uploads/logo/FULHAM.png",
+                    "margin": "none",
+                    "size": "xs",
+                    "aspectMode": "cover"
+                  }
+                ],
+                "paddingAll": "0px",
+                "spacing": "none",
+                "margin": "none",
+                "alignItems": "flex-end",
+                "borderWidth": "none"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ฟูลัม",
+                    "size": "xs",
+                    "margin": "none",
+                    "flex": 1,
+                    "align": "center"
+                  },
+                  {
+                    "type": "text",
+                    "text": "0 - 1",
+                    "align": "center",
+                    "margin": "none",
+                    "size": "md",
+                    "weight": "bold",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "แมนยู",
+                    "size": "xs",
+                    "align": "center",
+                    "margin": "none",
+                    "flex": 1
+                  }
+                ],
+                "backgroundColor": "#eeeeee",
+                "maxHeight": "30px",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "paddingAll": "0px",
+                "spacing": "none",
+                "margin": "none",
+                "offsetTop": "25px",
+                "borderWidth": "medium",
+                "borderColor": "#dddddd",
+                "width": "210px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://upload.wikimedia.org/wikipedia/th/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
+                    "margin": "none",
+                    "size": "xs",
+                    "aspectMode": "cover",
+                    "align": "end"
+                  }
+                ],
+                "paddingAll": "0px",
+                "spacing": "none",
+                "margin": "none",
+                "alignItems": "flex-start"
+              }
+            ],
+            "paddingAll": "0px",
+            "height": "70px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "margin": "none",
+                    "size": "xs",
+                    "aspectMode": "fit",
+                    "url": "https://upload.wikimedia.org/wikipedia/th/6/6d/Tottenham_Hotspur.png"
+                  }
+                ],
+                "paddingAll": "0px",
+                "spacing": "none",
+                "margin": "none",
+                "alignItems": "flex-end",
+                "borderWidth": "none"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "สเปอร์",
+                    "size": "xs",
+                    "margin": "none",
+                    "flex": 1,
+                    "align": "center"
+                  },
+                  {
+                    "type": "text",
+                    "text": "1 - 4",
+                    "align": "center",
+                    "margin": "none",
+                    "size": "md",
+                    "weight": "bold",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "เชลซี",
+                    "size": "xs",
+                    "align": "center",
+                    "flex": 1
+                  }
+                ],
+                "backgroundColor": "#eeeeee",
+                "maxHeight": "30px",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "paddingAll": "0px",
+                "spacing": "none",
+                "margin": "none",
+                "offsetTop": "25px",
+                "borderWidth": "medium",
+                "borderColor": "#dddddd",
+                "width": "210px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://upload.wikimedia.org/wikipedia/th/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+                    "margin": "none",
+                    "size": "xs",
+                    "aspectMode": "fit"
+                  }
+                ],
+                "paddingAll": "0px",
+                "spacing": "none",
+                "margin": "none",
+                "alignItems": "flex-start"
+              }
+            ],
+            "paddingAll": "0px",
+            "height": "70px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://upload.wikimedia.org/wikipedia/th/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
+                    "margin": "none",
+                    "size": "xs",
+                    "aspectMode": "fit"
+                  }
+                ],
+                "paddingAll": "0px",
+                "spacing": "none",
+                "margin": "none",
+                "alignItems": "flex-end",
+                "borderWidth": "none"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "แมนซิตี",
+                    "size": "xs",
+                    "margin": "none",
+                    "flex": 1,
+                    "align": "center"
+                  },
+                  {
+                    "type": "text",
+                    "text": "6 - 1",
+                    "align": "center",
+                    "margin": "none",
+                    "size": "md",
+                    "weight": "bold",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "บอร์นมัธ",
+                    "size": "xs",
+                    "align": "center",
+                    "flex": 1
+                  }
+                ],
+                "backgroundColor": "#eeeeee",
+                "maxHeight": "30px",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "paddingAll": "0px",
+                "spacing": "none",
+                "margin": "none",
+                "offsetTop": "25px",
+                "borderWidth": "medium",
+                "borderColor": "#dddddd",
+                "width": "210px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://upload.wikimedia.org/wikipedia/th/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+                    "margin": "none",
+                    "size": "xs",
+                    "aspectMode": "fit"
+                  }
+                ],
+                "paddingAll": "0px",
+                "spacing": "none",
+                "margin": "none",
+                "alignItems": "flex-start"
+              }
+            ],
+            "paddingAll": "0px",
+            "height": "70px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://upload.wikimedia.org/wikipedia/th/f/f6/Newcastle_United_Logo.svg.png",
+                    "margin": "none",
+                    "size": "xs",
+                    "aspectMode": "fit"
+                  }
+                ],
+                "paddingAll": "0px",
+                "spacing": "none",
+                "margin": "none",
+                "alignItems": "flex-end",
+                "borderWidth": "none"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "นิวคาสเซิล",
+                    "size": "xs",
+                    "margin": "none",
+                    "flex": 1,
+                    "align": "center"
+                  },
+                  {
+                    "type": "text",
+                    "text": "1 - 0",
+                    "align": "center",
+                    "margin": "none",
+                    "size": "md",
+                    "weight": "bold",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "อาร์เซนอล",
+                    "size": "xs",
+                    "align": "center",
+                    "flex": 1
+                  }
+                ],
+                "backgroundColor": "#eeeeee",
+                "maxHeight": "30px",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "paddingAll": "0px",
+                "spacing": "none",
+                "margin": "none",
+                "offsetTop": "25px",
+                "borderWidth": "medium",
+                "borderColor": "#dddddd",
+                "width": "210px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "margin": "none",
+                    "size": "xs",
+                    "aspectMode": "fit",
+                    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png"
+                  }
+                ],
+                "paddingAll": "0px",
+                "spacing": "none",
+                "margin": "none",
+                "alignItems": "flex-start"
+              }
+            ],
+            "paddingAll": "0px",
+            "height": "70px"
+          }
+        ],
+        "spacing": "none",
+        "margin": "xl",
+        "paddingBottom": "25px"
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}
