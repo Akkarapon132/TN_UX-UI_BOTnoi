@@ -126,6 +126,13 @@
                 "color": "#FFFFFF",
                 "align": "center",
                 "size": "xl"
+              },
+              {
+                "type": "text",
+                "text": "- 4 พย.",
+                "color": "#FFFFFF",
+                "align": "center",
+                "size": "xl"
               }
             ],
             "backgroundColor": "#3f51b5"
@@ -195,13 +202,6 @@
             "type": "box",
             "layout": "vertical",
             "contents": [
-              {
-                "type": "text",
-                "text": "- 4 พย.",
-                "color": "#FFFFFF",
-                "align": "center",
-                "size": "xl"
-              },
               {
                 "type": "text",
                 "text": "2566",
