@@ -1,0 +1,169 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cf2.bstatic.com/xdata/images/hotel/max1024x768/354673962.jpg?k=db267352c283ab999f87329af81fb016d44ce1f5359b039c4e2d28b324fd2fe2&o=&hp=1",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "150:196",
+            "gravity": "center",
+            "flex": 1
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/354674041.jpg?k=fded4f046e642f35ef714c6cfc5ed9a05516ab38dca5bde6eee384f29a2443da&o=&hp=1",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "150:98",
+                "gravity": "center"
+              },
+              {
+                "type": "image",
+                "url": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/354678751.jpg?k=1b016a18fe13e186cf9b006583c670457d9ec17041618de187d4793032481b99&o=&hp=1",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "150:98",
+                "gravity": "center"
+              }
+            ],
+            "flex": 1
+          }
+        ]
+      }
+    ],
+    "paddingAll": "0px"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "baseline",
+        "contents": [
+          {
+            "type": "icon",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+          },
+          {
+            "type": "icon",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+          },
+          {
+            "type": "icon",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+          },
+          {
+            "type": "icon",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+          },
+          {
+            "type": "icon",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+          },
+          {
+            "type": "text",
+            "text": "4.0",
+            "color": "#ffffff",
+            "flex": 0,
+            "margin": "md",
+            "size": "sm"
+          }
+        ],
+        "spacing": "none",
+        "margin": "none",
+        "position": "relative",
+        "alignItems": "flex-start",
+        "justifyContent": "flex-start"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [],
+                "size": "xl",
+                "wrap": true,
+                "text": "Orion Rooms Sukhumvit 11 ",
+                "color": "#ffffff",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "1 เตียงใหญ่, 1,500 บาท",
+                "color": "#ffffffcc",
+                "size": "md"
+              }
+            ],
+            "spacing": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "filler"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png",
+                    "size": "xl"
+                  },
+                  {
+                    "type": "text",
+                    "text": "จอง",
+                    "color": "#FFFFFF",
+                    "flex": 0,
+                    "offsetTop": "-2px",
+                    "size": "xxl"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "spacing": "sm"
+              },
+              {
+                "type": "filler"
+              }
+            ],
+            "spacing": "sm",
+            "margin": "xxl",
+            "width": "500px",
+            "backgroundColor": "#259b24",
+            "borderWidth": "1px",
+            "borderColor": "#ffffff",
+            "cornerRadius": "4px"
+          }
+        ]
+      }
+    ],
+    "paddingAll": "20px",
+    "backgroundColor": "#464F69"
+  }
+}
