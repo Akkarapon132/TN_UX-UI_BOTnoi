@@ -1,0 +1,403 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://thumb.ac-illust.com/60/6034a2121071b60fb3f4873dc7e2bbd2_t.jpeg",
+        "position": "absolute",
+        "size": "full",
+        "aspectRatio": "5:7",
+        "aspectMode": "cover",
+        "offsetBottom": "0px",
+        "offsetStart": "0px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ผลการออกรางวัลสลากกินแบ่งรัฐบาล",
+                "color": "#000000",
+                "size": "xl"
+              },
+              {
+                "type": "text",
+                "text": "งวดประจำวันที่ 1 พฤศจิกายน 2566",
+                "color": "#29b6f6",
+                "size": "sm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "รางวัลที่ 1 รางวัลละ 6,000,000 บาท",
+                    "margin": "none",
+                    "weight": "bold"
+                  }
+                ],
+                "margin": "none",
+                "width": "250px",
+                "backgroundColor": "#F8D247",
+                "cornerRadius": "sm",
+                "paddingTop": "7px",
+                "paddingBottom": "7px"
+              }
+            ],
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "7",
+                    "color": "#000000",
+                    "size": "3xl",
+                    "align": "center"
+                  }
+                ],
+                "backgroundColor": "#FFFFFF",
+                "borderWidth": "none",
+                "borderColor": "#000000"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "4",
+                    "size": "3xl",
+                    "color": "#000000",
+                    "align": "center"
+                  }
+                ],
+                "borderColor": "#000000",
+                "borderWidth": "none",
+                "backgroundColor": "#FFFFFF"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "3",
+                    "color": "#000000",
+                    "size": "3xl",
+                    "align": "center"
+                  }
+                ],
+                "backgroundColor": "#FFFFFF",
+                "borderWidth": "none",
+                "borderColor": "#000000"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "9",
+                    "size": "3xl",
+                    "color": "#000000",
+                    "align": "center"
+                  }
+                ],
+                "borderColor": "#000000",
+                "borderWidth": "none",
+                "backgroundColor": "#FFFFFF"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "5",
+                    "color": "#000000",
+                    "size": "3xl",
+                    "align": "center"
+                  }
+                ],
+                "borderWidth": "none",
+                "borderColor": "#000000",
+                "backgroundColor": "#FFFFFF"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "1",
+                    "size": "3xl",
+                    "color": "#000000",
+                    "align": "center"
+                  }
+                ],
+                "borderColor": "#000000",
+                "borderWidth": "none",
+                "backgroundColor": "#FFFFFF"
+              }
+            ],
+            "margin": "md"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "เลขหน้า 3 ตัว",
+                        "size": "lg",
+                        "color": "#FFFFFF",
+                        "align": "center",
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "2 รางวัลๆละ 4,000 บาท",
+                        "size": "md",
+                        "color": "#FFFFFF",
+                        "align": "center",
+                        "weight": "bold"
+                      }
+                    ],
+                    "backgroundColor": "#4fc3f7"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "913",
+                            "align": "center"
+                          },
+                          {
+                            "type": "text",
+                            "text": "335",
+                            "align": "center"
+                          }
+                        ]
+                      }
+                    ],
+                    "backgroundColor": "#FFFFFF"
+                  }
+                ],
+                "borderColor": "#FFFFFF",
+                "borderWidth": "light"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "เลขท้าย 3 ตัว",
+                        "size": "lg",
+                        "color": "#FFFFFF",
+                        "align": "center",
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "2 รางวัลๆละ 4,000 บาท",
+                        "size": "md",
+                        "color": "#FFFFFF",
+                        "align": "center",
+                        "weight": "bold"
+                      }
+                    ],
+                    "backgroundColor": "#4fc3f7",
+                    "borderWidth": "light",
+                    "borderColor": "#FFFFFF"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "019",
+                            "align": "center"
+                          },
+                          {
+                            "type": "text",
+                            "text": "349",
+                            "align": "center"
+                          }
+                        ]
+                      }
+                    ],
+                    "backgroundColor": "#FFFFFF"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เลขท้าย 2 ตัว",
+                    "size": "md",
+                    "color": "#000000",
+                    "align": "center"
+                  },
+                  {
+                    "type": "text",
+                    "text": "1 รางวัลๆละ 2,000 บาท",
+                    "size": "md",
+                    "color": "#000000",
+                    "align": "center"
+                  }
+                ],
+                "backgroundColor": "#F8D247"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "63",
+                        "align": "center",
+                        "margin": "none"
+                      }
+                    ]
+                  }
+                ],
+                "backgroundColor": "#FFFFFF"
+              }
+            ],
+            "margin": "md"
+          }
+        ],
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รางวัลข้างเคียงรางวัลที่ 1",
+                "size": "md",
+                "color": "#FFFFFF",
+                "align": "center",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "2 รางวัลๆละ 100,000 บาท",
+                "size": "md",
+                "color": "#FFFFFF",
+                "align": "center",
+                "weight": "bold"
+              }
+            ],
+            "backgroundColor": "#4fc3f7"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "743950",
+                    "align": "center"
+                  },
+                  {
+                    "type": "text",
+                    "text": "743952",
+                    "align": "center"
+                  }
+                ]
+              }
+            ],
+            "backgroundColor": "#FFFFFF"
+          }
+        ],
+        "margin": "md"
+      },
+      {
+        "type": "image",
+        "url": "https://www.glo.or.th/_nuxt/img/img_sbout_lottery_logo.2eff707.png"
+      }
+    ]
+  }
+}
