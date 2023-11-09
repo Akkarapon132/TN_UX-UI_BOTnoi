@@ -19,7 +19,8 @@
         "url": "https://s3-eu-west-1.amazonaws.com/football-foundation-production/PL_Resized_0-optimised.png",
         "size": "xxl",
         "position": "relative",
-        "align": "center"
+        "align": "center",
+        "aspectRatio": "4:2"
       },
       {
         "type": "box",
